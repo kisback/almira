@@ -1,0 +1,8 @@
+h1 {
+	color: red;
+}
+p {
+	color: purple;
+	border: 1px solid red;
+	padding: 4px;
+}
